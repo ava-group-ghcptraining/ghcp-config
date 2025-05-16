@@ -1,1 +1,1 @@
-# ghcp-config
+# ghc-config
